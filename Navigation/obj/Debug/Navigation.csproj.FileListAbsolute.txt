@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\bin\Debug\Navigation.exe.config
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\bin\Debug\Navigation.exe
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\bin\Debug\Navigation.pdb
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\obj\Debug\Navigation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\obj\Debug\Navigation.Form1.resources
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\obj\Debug\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\obj\Debug\Navigation.exe
+C:\Users\user\Desktop\Учеба\4 курс 1 семместр\Navigation\Navigation\obj\Debug\Navigation.pdb
+D:\Navigation\Navigation\bin\Debug\Navigation.exe.config
+D:\Navigation\Navigation\obj\Debug\Navigation.exe
+D:\Navigation\Navigation\obj\Debug\Navigation.pdb
+D:\Navigation\Navigation\bin\Debug\Navigation.exe
+D:\Navigation\Navigation\bin\Debug\Navigation.pdb
+D:\Navigation\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache
+D:\Navigation\Navigation\obj\Debug\Navigation.Form1.resources
+D:\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+D:\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.Cache
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\bin\Debug\Navigation.exe.config
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\obj\Debug\Navigation.exe
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\obj\Debug\Navigation.pdb
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\bin\Debug\Navigation.exe
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\bin\Debug\Navigation.pdb
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\obj\Debug\Navigation.Form1.resources
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+C:\Users\TEMP.PD.001\Desktop\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.Cache
+G:\Navigation\Navigation\bin\Debug\Navigation.exe.config
+G:\Navigation\Navigation\obj\Debug\Navigation.exe
+G:\Navigation\Navigation\obj\Debug\Navigation.pdb
+C:\Users\user\Desktop\Navigation\Navigation\bin\Debug\Navigation.exe.config
+C:\Users\user\Desktop\Navigation\Navigation\bin\Debug\Navigation.exe
+C:\Users\user\Desktop\Navigation\Navigation\bin\Debug\Navigation.pdb
+C:\Users\user\Desktop\Navigation\Navigation\obj\Debug\Navigation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Navigation\Navigation\obj\Debug\Navigation.Form1.resources
+C:\Users\user\Desktop\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+C:\Users\user\Desktop\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Navigation\Navigation\obj\Debug\Navigation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Navigation\Navigation\obj\Debug\Navigation.exe
+C:\Users\user\Desktop\Navigation\Navigation\obj\Debug\Navigation.pdb
